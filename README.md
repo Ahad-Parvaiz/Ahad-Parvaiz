@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Ahad-Parvaiz.
+- 👀 I’m interested in Ethical hacking.
+- 🌱 I’m currently studing in Punjab University.
+- 💞️ I’m a front end web developer(HTML and CSS)
+- 📫 ahadparvaizofficial@gmail.com
+- 😄 Pronouns: He/His/Him
