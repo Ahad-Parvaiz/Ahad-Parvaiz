@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Ahad-Parvaiz.
 - 👀 I’m interested in Ethical hacking.
 - 🌱 I’m currently studing in Punjab University.
-- 💞️ I’m a front end web developer(HTML and CSS)
+- 💻 I’m currently working as a web developer in orhanix company.
+- 💞️ I’m a full stack web developer(HTML, CSS and Python).
 - 📫 ahadparvaizofficial@gmail.com
 - 😄 Pronouns: He/His/Him
