@@ -129,4 +129,10 @@ AI solutions company portal
 </div>
 
 ---
+---
 
+<div align="center" style="margin-top: 30px;">
+  <img src="https://img.shields.io/badge/ACCESS_GRANTED-00ff00?style=for-the-badge&logo=lock&logoColor=white" />
+  <br>
+  <p style="color: #00ff00; font-family: monospace;">/* System secured. Backdoors patched. Ready for next mission. */</p>
+</div>
