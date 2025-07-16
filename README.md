@@ -1,4 +1,6 @@
-![Hacking Terminal](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDl3a2RkY3VlZ3l4Y3V6eWJ3Z2N5Z3Z4eGx6a2N4dWZ1ZDR6eWJ1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif)
+<div align="center">
+  <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="800" style="border-radius: 10px; box-shadow: 0 10px 20px rgba(0,255,255,0.3);"/>
+</div>
 
 # 👨‍💻 About Me:
 Hi, I'm **Ahad Parvaiz** — a passionate **Computer Science student** at **University of the Punjab (2024–2028)** focusing on **Ethical Hacking**, **Cybersecurity**, and **Web Development**.
