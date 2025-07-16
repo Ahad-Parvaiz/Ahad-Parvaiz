@@ -115,19 +115,20 @@ AI solutions company portal
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahadparvaiz/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ahad-Parvaiz)
 
----
 
 [![](https://visitcount.itsvg.in/api?id=Ahad-Parvaiz&label=Profile%20Views&color=6&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 ---
 
 <div align="center">
-  <h3 style="color: #00ff00">🚀 SYSTEM ACCESS LOGS</h3>
+  <h3 style="color: #00ff00; margin-bottom: 10px;">🚀 SYSTEM ACCESS LOGS</h3>
   
-  <!-- Glitch-style counter (shows only number) -->
-  <img src="https://profile-counter.glitch.me/Ahad-Parvaiz/count.svg" style="height: 30px;"/>
-  
-  <!-- Itsvg counter (shows icon + count) -->
-  [![](https://visitcount.itsvg.in/api?id=Ahad-Parvaiz&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
+  <!-- Combined counter display -->
+  <div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
+    <img src="https://profile-counter.glitch.me/Ahad-Parvaiz/count.svg" alt="Hack Count" style="height: 40px;"/>
+    <img src="https://visitcount.itsvg.in/api?id=Ahad-Parvaiz&label=TOTAL%20VISITS&color=12&icon=5&pretty=true" alt="Total Visits" />
+  </div>
 </div>
+
+---
 
