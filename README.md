@@ -100,12 +100,6 @@ AI solutions company portal
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahad-Parvaiz&theme=radical&show_icons=true&custom_title=GitHub%20Stats&hide_border=false)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Ahad-Parvaiz&theme=radical&hide_border=false)
-
-<p align="center">
-  <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-ethical-hacker-cyber-security-flaticons-flat-flat-icons.png" alt="Ethical Hacking" width="80"/>
-</p>
-
 ---
 
 ## 🌐 Connect With Me:
