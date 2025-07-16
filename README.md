@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://i.giphy.com/media/L7VJjaG2BLHVCbM5Qk/giphy.gif" width="800"/>
+  <img src="https://i.giphy.com/media/XEg1aX5FQyCM9OQs	f/giphy.gif" width="800"/>
   <br>
-  <h2 style="color: #ff00ff;">⚠️ "I don't break systems—I redefine them."</h2>
-  <pre style="background: #111; padding: 10px; border-radius: 5px;">if (system.secure()) { bypass(); }</pre>
+  <h2 style="font-family: 'Courier New'; color: #ff5555;">🚀 echo "Hello, Firewall?" > /dev/null</h2>
+  <pre style="background: linear-gradient(90deg, #000, #222);">sudo rm -rf /limits</pre>
 </div>
 
 # 👨‍💻 About Me:
