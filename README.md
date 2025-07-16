@@ -120,16 +120,20 @@ AI solutions company portal
 
 ---
 
-<div align="center">
-  <h3 style="color: #00ff00; margin-bottom: 15px; text-shadow: 0 0 5px #00ff00;">🚀 SYSTEM ACCESS LOGS</h3>
+<div>
+  <!-- Left-aligned heading -->
+  <h3 style="color: #00ff00; text-shadow: 0 0 5px #00ff00; text-align: left; margin-bottom: 15px;">🚀 SYSTEM ACCESS LOGS</h3>
   
   <!-- Guaranteed working counters -->
-  <a href="https://github.com/Ahad-Parvaiz">
-    <img src="https://komarev.com/ghpvc/?username=Ahad-Parvaiz&label=HACK+ATTEMPTS&color=00ff00&style=flat-square" />
-  </a>
-  <a href="https://github.com/Ahad-Parvaiz">
-    <img src="https://badges.pufler.dev/visits/Ahad-Parvaiz/Ahad-Parvaiz?color=00ff00&style=flat-square&label=TOTAL+VISITS" />
-  </a>
+  <div align="center">
+    <a href="https://github.com/Ahad-Parvaiz">
+      <img src="https://komarev.com/ghpvc/?username=Ahad-Parvaiz&label=HACK+ATTEMPTS&color=00ff00&style=for-the-badge" />
+    </a>
+    <span style="display: inline-block; width: 20px;"></span>
+    <a href="https://github.com/Ahad-Parvaiz">
+      <img src="https://img.shields.io/badge/dynamic/json?color=00ff00&label=TOTAL+VISITS&query=value&url=https://api.countapi.xyz/hit/Ahad-Parvaiz.github.io/visits&style=for-the-badge" />
+    </a>
+  </div>
 </div>
 
 ---
