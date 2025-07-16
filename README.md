@@ -1,9 +1,10 @@
 <div align="center">
-  <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="800"/>
+  <img src="https://i.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="800" style="border: 3px solid #0ff; box-shadow: 0 0 20px #0ff;"/>
   <br>
-  <h2>🔥 "It's not a bug—it's a backdoor."</h2>
-  <pre>while ( ! ( pwned = hack(the_world) ) );</pre>
+  <h2 style="color: #0ff; text-shadow: 0 0 10px #0ff;">💻 "Access Granted."</h2>
+  <pre style="color: #0ff; font-family: monospace; font-size: 1.2em;">while (root == true) { hack_all(); }</pre>
 </div>
+
 # 👨‍💻 About Me:
 Hi, I'm **Ahad Parvaiz** — a passionate **Computer Science student** at **University of the Punjab (2024–2028)** focusing on **Ethical Hacking**, **Cybersecurity**, and **Web Development**.
 
