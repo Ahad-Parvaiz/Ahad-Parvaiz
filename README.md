@@ -1,5 +1,9 @@
-![Cyber Skull](https://i.giphy.com/media/ZgTR3UQ9XAWDvqy9Hv/giphy.gif)
-
+<div align="center">
+  <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="800"/>
+  <br>
+  <h2>🔥 "It's not a bug—it's a backdoor."</h2>
+  <pre>while ( ! ( pwned = hack(the_world) ) );</pre>
+</div>
 # 👨‍💻 About Me:
 Hi, I'm **Ahad Parvaiz** — a passionate **Computer Science student** at **University of the Punjab (2024–2028)** focusing on **Ethical Hacking**, **Cybersecurity**, and **Web Development**.
 
