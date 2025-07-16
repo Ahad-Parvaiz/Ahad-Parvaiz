@@ -121,13 +121,15 @@ AI solutions company portal
 ---
 
 <div align="center">
-  <h3 style="color: #00ff00; margin-bottom: 10px;">🚀 SYSTEM ACCESS LOGS</h3>
+  <h3 style="color: #00ff00; margin-bottom: 15px; text-shadow: 0 0 5px #00ff00;">🚀 SYSTEM ACCESS LOGS</h3>
   
-  <!-- Combined counter display -->
-  <div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
-    <img src="https://profile-counter.glitch.me/Ahad-Parvaiz/count.svg" alt="Hack Count" style="height: 40px;"/>
-    <img src="https://visitcount.itsvg.in/api?id=Ahad-Parvaiz&label=TOTAL%20VISITS&color=12&icon=5&pretty=true" alt="Total Visits" />
-  </div>
+  <!-- Guaranteed working counters -->
+  <a href="https://github.com/Ahad-Parvaiz">
+    <img src="https://komarev.com/ghpvc/?username=Ahad-Parvaiz&label=HACK+ATTEMPTS&color=00ff00&style=flat-square" />
+  </a>
+  <a href="https://github.com/Ahad-Parvaiz">
+    <img src="https://badges.pufler.dev/visits/Ahad-Parvaiz/Ahad-Parvaiz?color=00ff00&style=flat-square&label=TOTAL+VISITS" />
+  </a>
 </div>
 
 ---
