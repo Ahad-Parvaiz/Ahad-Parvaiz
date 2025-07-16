@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://i.giphy.com/media/XEg1aX5FQyCM9OQs/giphy.gif" width="800"/>
+  <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="800" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0, 255, 255, 0.4);"/>
   <br>
-  <h2 style="font-family: 'Courier New'; color: #ff5555;">🚀 echo "Hello, Firewall?" > /dev/null</h2>
-  <pre style="background: linear-gradient(90deg, #000, #222);">sudo rm -rf /limits</pre>
+  <h2 style="color: #00ff00; text-shadow: 0 0 8px #00ff00;">🔥 "It's not a bug—it's a backdoor."</h2>
+  <pre style="background: #111; padding: 12px; border-radius: 4px; border-left: 3px solid #00ff00;">while ( ! ( pwned = hack(the_world) ) );</pre>
   <br>
-  <img src="https://komarev.com/ghpvc/?username=Ahad-Parvaiz&label=PROFILE+VIEWS&color=0ff&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Ahad-Parvaiz&label=PROFILE%20VIEWS&color=00ff00&style=plastic" alt="Ahad-Parvaiz" />
 </div>
 
 # 👨‍💻 About Me:
