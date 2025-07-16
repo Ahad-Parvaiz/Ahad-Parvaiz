@@ -37,8 +37,10 @@ Hi, I'm **Ahad Parvaiz** — a passionate **Computer Science student** at **Univ
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=yellow)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38b2ac?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer--Motion-000000?style=for-the-badge&logo=framer&logoColor=white)
+![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing-000000?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-007ACC?style=for-the-badge&logo=wireshark&logoColor=white)
+![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-8B0000?style=for-the-badge&logo=hackthebox&logoColor=white)
+
 
 ---
 
