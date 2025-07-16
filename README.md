@@ -4,7 +4,7 @@
   <h2 style="color: #00ff00; text-shadow: 0 0 8px #00ff00;">🔥 "It's not a bug—it's a backdoor."</h2>
   <pre style="background: #111; padding: 12px; border-radius: 4px; border-left: 3px solid #00ff00;">while ( ! ( pwned = hack(the_world) ) );</pre>
   <br>
-  <img src="https://komarev.com/ghpvc/?username=Ahad-Parvaiz&label=PROFILE%20VIEWS&color=00ff00&style=plastic" alt="Ahad-Parvaiz" />
+  <img src="https://komarev.com/ghpvc/?username=Ahad-Parvaiz&label=PROFILE%20VISITS&color=00ff00&style=for-the-badge" alt="Ahad-Parvaiz" />
 </div>
 
 # 👨‍💻 About Me:
@@ -119,7 +119,12 @@ AI solutions company portal
 
 [![](https://visitcount.itsvg.in/api?id=Ahad-Parvaiz&label=Profile%20Views&color=6&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Ahad-Parvaiz/count.svg" alt="Hack Counter" />
-</p>
+---
+
+<div align="center">
+  <h3 style="color: #00ff00">🚀 SYSTEM ACCESS LOGS</h3>
+  <img src="https://profile-counter.glitch.me/Ahad-Parvaiz/count.svg" alt="Hack Counter" style="height: 30px;"/>
+  <br>
+  <img src="https://visitcount.itsvg.in/api?id=Ahad-Parvaiz&label=TOTAL%20VISITS&color=12&icon=5&pretty=true" alt="Visitor Count" />
+</div>
 
