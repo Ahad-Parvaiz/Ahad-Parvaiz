@@ -99,7 +99,11 @@ AI solutions company portal
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Ahad-Parvaiz&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ahad-Parvaiz&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahad-Parvaiz&theme=radical&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahad-Parvaiz&theme=radical&hide_border=false&layout=compact&exclude_repo=repo1,repo2&hide=php,scss,less)
+
+<p align="center">
+  <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-ethical-hacker-cyber-security-flaticons-flat-flat-icons.png" alt="Ethical Hacking" width="80"/>
+</p>
 
 ---
 
