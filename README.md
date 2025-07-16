@@ -103,16 +103,18 @@ AI solutions company portal
 ![GitHub Streak](https://streak-stats.demolab.com?user=Ahad-Parvaiz&theme=radical&hide_border=false)
 
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" alt="Ethical Hacking Icon" width="50" />
+  <img src="https://cdn-icons-png.flaticon.com/512/8888/8888570.png" alt="Ethical Hacking Icon" width="80" />
+  <img src="https://cdn-icons-png.flaticon.com/512/8888/8888570.png" alt="Ethical Hacking Icon" width="80" />
+  <img src="https://cdn-icons-png.flaticon.com/512/8888/8888570.png" alt="Ethical Hacking Icon" width="80" />
 </p>
 
 ---
 
-## 📸 Featured Visual
+## 🎯 Featured Visual
 
-![Dynamic 3D Visual](https://cdn.pixabay.com/photo/2022/09/11/14/04/cyber-7446671_1280.jpg)
+![Ethical Hacking Visual](https://images.unsplash.com/photo-1563986768609-322da13575f3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80)
 
-> *A dynamic, high-quality 3D visual representing cybersecurity, web development, ethical hacking, and project management.*
+> *A dynamic, high-quality visual representing ethical hacking, penetration testing, web development, and security research.*
 
 
 
