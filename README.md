@@ -120,18 +120,20 @@ AI solutions company portal
 
 ---
 
-<div>
+<div style="margin-top: 40px;">
   <!-- Left-aligned heading -->
-  <h3 style="color: #00ff00; text-shadow: 0 0 5px #00ff00; text-align: left; margin-bottom: 15px;">🚀 SYSTEM ACCESS LOGS</h3>
+  <h3 style="color: #00ff00; text-shadow: 0 0 5px #00ff00; margin-bottom: 20px;">🚀 SYSTEM ACCESS LOGS</h3>
   
-  <!-- Guaranteed working counters -->
-  <div align="center">
+  <!-- 100% reliable counters -->
+  <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+    <!-- Counter 1: Komarev -->
     <a href="https://github.com/Ahad-Parvaiz">
-      <img src="https://komarev.com/ghpvc/?username=Ahad-Parvaiz&label=HACK+ATTEMPTS&color=00ff00&style=for-the-badge" />
+      <img src="https://komarev.com/ghpvc/?username=Ahad-Parvaiz&label=HACK+ATTEMPTS&color=00ff00&style=for-the-badge" alt="Hack Attempts" />
     </a>
-    <span style="display: inline-block; width: 20px;"></span>
+    
+    <!-- Counter 2: Shields.io -->
     <a href="https://github.com/Ahad-Parvaiz">
-      <img src="https://img.shields.io/badge/dynamic/json?color=00ff00&label=TOTAL+VISITS&query=value&url=https://api.countapi.xyz/hit/Ahad-Parvaiz.github.io/visits&style=for-the-badge" />
+      <img src="https://img.shields.io/badge/dynamic/json?label=TOTAL+VISITS&query=value&url=https://api.countapi.xyz/hit/ahad-parvaiz.github.io/visits&color=00ff00&style=for-the-badge&logo=github" alt="Total Visits" />
     </a>
   </div>
 </div>
