@@ -123,8 +123,11 @@ AI solutions company portal
 
 <div align="center">
   <h3 style="color: #00ff00">🚀 SYSTEM ACCESS LOGS</h3>
-  <img src="https://profile-counter.glitch.me/Ahad-Parvaiz/count.svg" alt="Hack Counter" style="height: 30px;"/>
-  <br>
-  <img src="https://visitcount.itsvg.in/api?id=Ahad-Parvaiz&label=TOTAL%20VISITS&color=12&icon=5&pretty=true" alt="Visitor Count" />
+  
+  <!-- Glitch-style counter (shows only number) -->
+  <img src="https://profile-counter.glitch.me/Ahad-Parvaiz/count.svg" style="height: 30px;"/>
+  
+  <!-- Itsvg counter (shows icon + count) -->
+  [![](https://visitcount.itsvg.in/api?id=Ahad-Parvaiz&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 </div>
 
