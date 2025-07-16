@@ -103,20 +103,10 @@ AI solutions company portal
 ![GitHub Streak](https://streak-stats.demolab.com?user=Ahad-Parvaiz&theme=radical&hide_border=false)
 
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/8888/8888570.png" alt="Ethical Hacking Icon" width="80" />
-  <img src="https://cdn-icons-png.flaticon.com/512/8888/8888570.png" alt="Ethical Hacking Icon" width="80" />
-  <img src="https://cdn-icons-png.flaticon.com/512/8888/8888570.png" alt="Ethical Hacking Icon" width="80" />
+  <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-ethical-hacker-cyber-security-flaticons-flat-flat-icons.png" alt="Ethical Hacking" width="80"/>
 </p>
 
 ---
-
-## 🎯 Featured Visual
-
-![Ethical Hacking Visual](https://images.unsplash.com/photo-1563986768609-322da13575f3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80)
-
-> *A dynamic, high-quality visual representing ethical hacking, penetration testing, web development, and security research.*
-
-
 
 ## 🌐 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahadparvaiz/)
