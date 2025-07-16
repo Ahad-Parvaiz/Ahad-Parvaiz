@@ -121,13 +121,13 @@ AI solutions company portal
 ---
 
 <div style="margin-top: 40px;">
-  <h3 style="color: #00ff00; text-shadow: 0 0 5px #00ff00; margin-bottom: 20px;">🚀 SYSTEM ACCESS LOGS</h3>
+  <h3 style="color: #00ff00; text-shadow: 0 0 5px #00ff00; margin-bottom: 20px; text-align: left;">🚀 SYSTEM ACCESS LOGS</h3>
   
   <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
     <!-- Counter 1: Komarev -->
-    <img src="https://komarev.com/ghpvc/?username=Ahad-Parvaiz&label=HACK+ATTEMPTS&color=00ff00&style=for-the-badge" alt="Hack Attempts" />
+    <img src="https://komarev.com/ghpvc/?username=Ahad-Parvaiz&label=HACK_ATTEMPTS&color=00ff00&style=for-the-badge" alt="Hack Attempts" />
     
-    <!-- Counter 2: Fixed URL -->
+    <!-- Counter 2: Verified Working Badge -->
     <img src="https://img.shields.io/badge/TOTAL_VISITS-12345-00ff00?style=for-the-badge&logo=github" alt="Total Visits" />
   </div>
 </div>
