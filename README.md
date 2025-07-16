@@ -1,4 +1,4 @@
-![Cybersecurity Shield](https://images.unsplash.com/photo-1563986768609-322da13575f3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Y3liZXJzZWN1cml0eXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=800&q=60)
+![Hacker Terminal](https://images.unsplash.com/photo-1563770660941-10a63607739e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8aGFja2VyJTIwdGVybWluYWx8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=800&q=60)
 
 # 👨‍💻 About Me:
 Hi, I'm **Ahad Parvaiz** — a passionate **Computer Science student** at **University of the Punjab (2024–2028)** focusing on **Ethical Hacking**, **Cybersecurity**, and **Web Development**.
