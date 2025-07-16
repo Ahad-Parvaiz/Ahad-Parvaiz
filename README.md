@@ -1,4 +1,4 @@
-![Matrix Hacker](https://i.giphy.com/media/Yq6ox1X9YKMZJY8sPd/giphy.gif)
+![Hack the Planet](https://i.giphy.com/media/3o7aCTPPm4OHfRLSH6/giphy.gif)
 
 # 👨‍💻 About Me:
 Hi, I'm **Ahad Parvaiz** — a passionate **Computer Science student** at **University of the Punjab (2024–2028)** focusing on **Ethical Hacking**, **Cybersecurity**, and **Web Development**.
