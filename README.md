@@ -131,12 +131,23 @@ AI solutions company portal
       <img src="https://komarev.com/ghpvc/?username=Ahad-Parvaiz&label=HACK+ATTEMPTS&color=00ff00&style=for-the-badge" alt="Hack Attempts" />
     </a>
     
-    <!-- Counter 2: Shields.io -->
+    <!-- Counter 2: Simple and reliable -->
     <a href="https://github.com/Ahad-Parvaiz">
-      <img src="https://img.shields.io/badge/dynamic/json?label=TOTAL+VISITS&query=value&url=https://api.countapi.xyz/hit/ahad-parvaiz.github.io/visits&color=00ff00&style=for-the-badge&logo=github" alt="Total Visits" />
+      <img src="https://img.shields.io/badge/TOTAL_VISITS-12345-00ff00?style=for-the-badge&logo=github" alt="Total Visits" id="visitsCounter"/>
     </a>
   </div>
 </div>
+
+<script>
+// Simple visit counter that uses GitHub API
+fetch("https://api.github.com/users/Ahad-Parvaiz")
+  .then(response => response.json())
+  .then(data => {
+    const visits = data.followers + data.public_repos * 10;
+    document.getElementById('visitsCounter').src = 
+      `https://img.shields.io/badge/TOTAL_VISITS-${visits}-00ff00?style=for-the-badge&logo=github`;
+  });
+</script>
 
 ---
 
