@@ -1,10 +1,10 @@
 <div align="center">
   <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="800" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0, 255, 255, 0.4);"/>
   <br>
-  <h2 style="color: #00ff00; text-shadow: 0 0 8px #00ff00;">🔥 "It's not a bug—it's a backdoor."</h2>
-  <pre style="background: #111; padding: 12px; border-radius: 4px; border-left: 3px solid #00ff00;">while ( ! ( pwned = hack(the_world) ) );</pre>
+  <h2 style="color: #00ff00; text-shadow: 0 0 8px #00ff00;">🔥 Ahad Parvaiz: "It's not a bug—it's a backdoor."</h2>
+  <pre style="background: #111; padding: 12px; border-radius: 4px; border-left: 3px solid #00ff00;">/* Security Specialist | Ethical Hacker | Code Alchemist */</pre>
   <br>
-  <img src="https://komarev.com/ghpvc/?username=Ahad-Parvaiz&label=PROFILE%20VISITS&color=00ff00&style=for-the-badge" alt="Ahad-Parvaiz" />
+  <img src="https://komarev.com/ghpvc/?username=Ahad-Parvaiz&label=PROFILE_VISITS&color=00ff00&style=for-the-badge&labelColor=000000" alt="Ahad-Parvaiz" />
 </div>
 
 # 👨‍💻 About Me:
@@ -128,7 +128,6 @@ AI solutions company portal
   <img src="https://img.shields.io/badge/TOTAL_VISITS-12345-00ff00?style=for-the-badge" />
 </div>
 
----
 ---
 
 <div align="center" style="margin-top: 30px;">
