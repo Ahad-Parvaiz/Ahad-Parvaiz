@@ -98,7 +98,8 @@ AI solutions company portal
 
 ## 📈 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=Ahad-Parvaiz&theme=radical&show_icons=true&hide_title=true&custom_title=GitHub%20Stats&bg_color=00000000&icon_color=4ade80&hide_border=false&hide_rank=true&logo=hackthebox&logo_color=white)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ahad-Parvaiz&theme=radical&hide_border=false)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahad-parvaiz&theme=radical&hide_border=false)
+
 
 ---
 
@@ -111,6 +112,5 @@ AI solutions company portal
 [![GitHub](https://img.shields.io/badge/GitHub-100000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ahad-Parvaiz)
 
 ---
-## 📈 Stats
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ahad‑Parvaiz&theme=radical&hide_border=false)
+
 [![](https://visitcount.itsvg.in/api?id=Ahad-Parvaiz&label=Profile%20Views&color=6&icon=5&pretty=false)](https://visitcount.itsvg.in)
