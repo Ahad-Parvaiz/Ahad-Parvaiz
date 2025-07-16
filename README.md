@@ -125,14 +125,10 @@ AI solutions company portal
   
   <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
     <!-- Counter 1: Komarev -->
-    <a href="https://github.com/Ahad-Parvaiz">
-      <img src="https://komarev.com/ghpvc/?username=Ahad-Parvaiz&label=HACK+ATTEMPTS&color=00ff00&style=for-the-badge" alt="Hack Attempts" />
-    </a>
+    <img src="https://komarev.com/ghpvc/?username=Ahad-Parvaiz&label=HACK+ATTEMPTS&color=00ff00&style=for-the-badge" alt="Hack Attempts" />
     
-    <!-- Counter 2: 100% Reliable -->
-    <a href="https://github.com/Ahad-Parvaiz">
-      <img src="https://img.shields.io/badge/TOTAL_VISITS-12345-00ff00?style=for-the-badge&logo=github" alt="Total Visits" />
-    </a>
+    <!-- Counter 2: Fixed URL -->
+    <img src="https://img.shields.io/badge/TOTAL_VISITS-12345-00ff00?style=for-the-badge&logo=github" alt="Total Visits" />
   </div>
 </div>
 
