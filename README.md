@@ -5,7 +5,7 @@ Hi, I'm **Ahad Parvaiz** — a passionate **Computer Science student** at **Univ
 
 🛡️ I'm actively building a strong foundation in penetration testing, vulnerability scanning, and networking.<br>
 🚀 Currently working as a **Freelance WordPress Developer** on Fiverr and a former intern at **Orhanix**.<br>
-📈 My long-term goal is to become a **Cybersecurity Analyst** and **Red Team Expert**.
+📈 My long-term goal is to become a **Cybersecurity Analyst** and **Ethical Hacker**.
 
 ---
 
@@ -74,7 +74,7 @@ Hi, I'm **Ahad Parvaiz** — a passionate **Computer Science student** at **Univ
 
 ## 🔐 Tools & Frameworks
 - 💻 Kali Linux | Burp Suite | Wireshark | Metasploit
-- ⚙️ React.js + Vite | Tailwind CSS | Framer Motion | React Spring
+- ⚙️ HTML5 | CSS3 | JavaScript | Python
 - 🎨 Canva | Trello | GitHub | VS Code
 
 ---
