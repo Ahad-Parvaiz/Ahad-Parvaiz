@@ -97,16 +97,23 @@ AI solutions company portal
 ---
 
 ## 📈 GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahad-Parvaiz&theme=radical&show_icons=true&custom_title=GitHub%20Stats&hide_border=false)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Ahad-Parvaiz&theme=radical&hide_border=false)
 
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" alt="Ethical Hacking Icon" width="50" />
+</p>
+
 ---
 
 ## 📸 Featured Visual
+
 ![Dynamic 3D Visual](https://cdn.pixabay.com/photo/2022/09/11/14/04/cyber-7446671_1280.jpg)
 
 > *A dynamic, high-quality 3D visual representing cybersecurity, web development, ethical hacking, and project management.*
+
 
 
 ## 🌐 Connect With Me:
