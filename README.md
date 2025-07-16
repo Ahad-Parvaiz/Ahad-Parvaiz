@@ -1,8 +1,10 @@
 <div align="center">
-  <img src="https://i.giphy.com/media/XEg1aX5FQyCM9OQs	f/giphy.gif" width="800"/>
+  <img src="https://i.giphy.com/media/XEg1aX5FQyCM9OQs/giphy.gif" width="800"/>
   <br>
   <h2 style="font-family: 'Courier New'; color: #ff5555;">🚀 echo "Hello, Firewall?" > /dev/null</h2>
   <pre style="background: linear-gradient(90deg, #000, #222);">sudo rm -rf /limits</pre>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=Ahad-Parvaiz&label=PROFILE+VIEWS&color=0ff&style=for-the-badge" />
 </div>
 
 # 👨‍💻 About Me:
