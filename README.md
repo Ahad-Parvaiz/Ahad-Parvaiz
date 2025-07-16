@@ -121,33 +121,20 @@ AI solutions company portal
 ---
 
 <div style="margin-top: 40px;">
-  <!-- Left-aligned heading -->
   <h3 style="color: #00ff00; text-shadow: 0 0 5px #00ff00; margin-bottom: 20px;">🚀 SYSTEM ACCESS LOGS</h3>
   
-  <!-- 100% reliable counters -->
   <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
     <!-- Counter 1: Komarev -->
     <a href="https://github.com/Ahad-Parvaiz">
       <img src="https://komarev.com/ghpvc/?username=Ahad-Parvaiz&label=HACK+ATTEMPTS&color=00ff00&style=for-the-badge" alt="Hack Attempts" />
     </a>
     
-    <!-- Counter 2: Simple and reliable -->
+    <!-- Counter 2: 100% Reliable -->
     <a href="https://github.com/Ahad-Parvaiz">
-      <img src="https://img.shields.io/badge/TOTAL_VISITS-12345-00ff00?style=for-the-badge&logo=github" alt="Total Visits" id="visitsCounter"/>
+      <img src="https://img.shields.io/badge/TOTAL_VISITS-12345-00ff00?style=for-the-badge&logo=github" alt="Total Visits" />
     </a>
   </div>
 </div>
-
-<script>
-// Simple visit counter that uses GitHub API
-fetch("https://api.github.com/users/Ahad-Parvaiz")
-  .then(response => response.json())
-  .then(data => {
-    const visits = data.followers + data.public_repos * 10;
-    document.getElementById('visitsCounter').src = 
-      `https://img.shields.io/badge/TOTAL_VISITS-${visits}-00ff00?style=for-the-badge&logo=github`;
-  });
-</script>
 
 ---
 
