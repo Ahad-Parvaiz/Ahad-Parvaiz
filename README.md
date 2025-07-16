@@ -118,3 +118,8 @@ AI solutions company portal
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Ahad-Parvaiz&label=Profile%20Views&color=6&icon=5&pretty=false)](https://visitcount.itsvg.in)
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Ahad-Parvaiz/count.svg" alt="Hack Counter" />
+</p>
+
