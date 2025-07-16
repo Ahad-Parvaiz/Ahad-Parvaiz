@@ -97,15 +97,17 @@ AI solutions company portal
 ---
 
 ## 📈 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Ahad-Parvaiz&theme=radical&show_icons=true&hide_title=true&custom_title=GitHub%20Stats&bg_color=00000000&icon_color=4ade80&hide_border=false&hide_rank=true&logo=hackthebox&logo_color=white)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahad-parvaiz&theme=radical&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahad-Parvaiz&theme=radical&show_icons=true&custom_title=GitHub%20Stats&hide_border=false)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=Ahad-Parvaiz&theme=radical&hide_border=false)
 
 ---
 
 ## 📸 Featured Visual
-![Dynamic 3D Web Visual](https://via.placeholder.com/1200x400.png?text=Dynamic+3D+Web+Visualization)
----
+![Dynamic 3D Visual](https://cdn.pixabay.com/photo/2022/09/11/14/04/cyber-7446671_1280.jpg)
+
+> *A dynamic, high-quality 3D visual representing cybersecurity, web development, ethical hacking, and project management.*
+
 
 ## 🌐 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahadparvaiz/)
