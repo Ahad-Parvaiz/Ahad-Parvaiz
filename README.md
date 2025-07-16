@@ -17,7 +17,6 @@ Hi, I'm **Ahad Parvaiz** — a passionate **Computer Science student** at **Univ
 ---
 
 ## 💼 Experience
-
 ### 🔧 WordPress Developer | Fiverr (Jun 2025 – Present)
 - 🚀 Built 50+ SEO-optimized sites with WooCommerce integration  
 - 🛒 Specialized in fast-loading, responsive CMS websites  
@@ -56,7 +55,6 @@ Hi, I'm **Ahad Parvaiz** — a passionate **Computer Science student** at **Univ
 ---
 
 ## 📜 Certifications
-
 - 🧠 **Penetration Testing** – LinkedIn Learning  
 - 🛡️ **Web Hacking** – Udemy  
 - 🌐 **Network Mastery** – Udemy  
@@ -82,7 +80,6 @@ Hi, I'm **Ahad Parvaiz** — a passionate **Computer Science student** at **Univ
 ---
 
 ## 🚀 Projects
-
 ### 🔒 [Ethical Hacking Hub](https://hacking-with-ahad.vercel.app/)
 Interactive cybersecurity platform for beginners  
 **Tech:** React, Node.js, Kali Docs
@@ -99,11 +96,14 @@ AI solutions company portal
 
 ---
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ahad-Parvaiz&theme=radical&hide_border=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ahad-Parvaiz&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahad-Parvaiz&theme=radical&hide_border=false&layout=compact)
+## 📈 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=Ahad-Parvaiz&theme=radical&show_icons=true&hide_title=true&custom_title=GitHub%20Stats&bg_color=00000000&icon_color=4ade80&hide_border=false&hide_rank=true&logo=hackthebox&logo_color=white)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ahad-Parvaiz&theme=radical&hide_border=false)
 
+---
+
+## 📸 Featured Visual
+![Dynamic 3D Web Visual](https://via.placeholder.com/1200x400.png?text=Dynamic+3D+Web+Visualization)
 ---
 
 ## 🌐 Connect With Me:
@@ -111,5 +111,6 @@ AI solutions company portal
 [![GitHub](https://img.shields.io/badge/GitHub-100000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ahad-Parvaiz)
 
 ---
-
+## 📈 Stats
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ahad‑Parvaiz&theme=radical&hide_border=false)
 [![](https://visitcount.itsvg.in/api?id=Ahad-Parvaiz&label=Profile%20Views&color=6&icon=5&pretty=false)](https://visitcount.itsvg.in)
