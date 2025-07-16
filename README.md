@@ -23,10 +23,21 @@ Hi, I'm **Ahad Parvaiz** — a passionate **Computer Science student** at **Univ
 - 🛒 Specialized in fast-loading, responsive CMS websites  
 - 🌟 98% client satisfaction rating
 
+### 🧠 Summer Intern | Pakistan Career Fair · Internship (Jun 2025 – Present)
+- 🎓 Selected for the prestigious **Online Internship Program** by **Skills4U**  
+- 📌 5-week remote program focusing on communication, LinkedIn optimization, and career growth  
+- 🛠️ Gained hands-on experience with collaborative digital tools and virtual project management
+
+### 🧩 Project Manager | Orhanix (AI Hackathon) (Mar 2025 – Apr 2025)
+- 🧠 Led **AI Hackathon** for Orhanix internal innovation initiative  
+- 💡 Managed project scope, task delegation, and delivery roadmap  
+- 🏆 Oversaw end-to-end planning of the event with a team of developers and researchers
+
 ### 🖥️ Web Developer Intern | Orhanix (Feb 2025 – Jun 2025)
-- 🧠 Led AI Hackathon project  
-- 🛡️ Integrated security best practices into production  
-- 🌐 Built full company site from scratch
+- 🌐 Built the full company website from scratch  
+- 🛡️ Implemented security best practices  
+- 🤖 Contributed to AI-based innovation tasks during internal events
+
 
 ---
 
@@ -45,10 +56,21 @@ Hi, I'm **Ahad Parvaiz** — a passionate **Computer Science student** at **Univ
 ---
 
 ## 📜 Certifications
-- 🛡️ Penetration Testing – *LinkedIn Learning*  
-- 🌐 Web Hacking – *Udemy*  
-- 🔌 Network Mastery – *Udemy*  
-- ⚖️ Cyber Law – *UniAthena*  
+
+- 🧠 **Penetration Testing** – LinkedIn Learning  
+- 🛡️ **Web Hacking** – Udemy  
+- 🌐 **Network Mastery** – Udemy  
+- ⚖️ **Cyber Law** – UniAthena  
+- 🔤 **HTML5** – MindLuster  
+- 🎨 **CSS3** – MindLuster  
+- 🐍 **Python Programming** – UniAthena & LinkedIn Learning  
+- 💻 **PowerShell for Beginners** – Udemy  
+- 📋 **Agile Project Manager** – Agile Enterprise Coach (London)  
+- 🎨 **Create and Design Digital Products using Canva** – Coursera  
+- 🌍 **WordPress Development** – Coursera  
+- 💼 **Foundation of Business and Entrepreneurship** – SkillFront  
+- 📊 **Designing and Formatting Presentations in PowerPoint** – Coursera
+
 
 ---
 
