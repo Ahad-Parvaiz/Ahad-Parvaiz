@@ -96,9 +96,10 @@ AI solutions company portal
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahad-Parvaiz&theme=radical&show_icons=true&custom_title=GitHub%20Stats&hide_border=false)
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Ahad-Parvaiz&theme=radical&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ahad-Parvaiz&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahad-Parvaiz&theme=radical&hide_border=false&layout=compact)
 
 ---
 
