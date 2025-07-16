@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://i.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="800" style="border: 3px solid #0ff; box-shadow: 0 0 20px #0ff;"/>
+  <img src="https://i.giphy.com/media/L7VJjaG2BLHVCbM5Qk/giphy.gif" width="800"/>
   <br>
-  <h2 style="color: #0ff; text-shadow: 0 0 10px #0ff;">💻 "Access Granted."</h2>
-  <pre style="color: #0ff; font-family: monospace; font-size: 1.2em;">while (root == true) { hack_all(); }</pre>
+  <h2 style="color: #ff00ff;">⚠️ "I don't break systems—I redefine them."</h2>
+  <pre style="background: #111; padding: 10px; border-radius: 5px;">if (system.secure()) { bypass(); }</pre>
 </div>
 
 # 👨‍💻 About Me:
