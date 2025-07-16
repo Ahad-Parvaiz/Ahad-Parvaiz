@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="800" style="border-radius: 10px; box-shadow: 0 10px 20px rgba(0,255,255,0.3);"/>
-</div>
+![Matrix Hacker](https://i.giphy.com/media/Yq6ox1X9YKMZJY8sPd/giphy.gif)
 
 # 👨‍💻 About Me:
 Hi, I'm **Ahad Parvaiz** — a passionate **Computer Science student** at **University of the Punjab (2024–2028)** focusing on **Ethical Hacking**, **Cybersecurity**, and **Web Development**.
