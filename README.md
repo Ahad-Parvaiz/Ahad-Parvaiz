@@ -101,34 +101,6 @@ AI solutions company portal
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ahad-Parvaiz&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahad-Parvaiz&theme=radical&hide_border=false&layout=compact)
 
-# GitHub Stats:
-
-## Ahad Parvaiz's GitHub Stats
-
-**Total Stars Earned:**  
-1  
-
-**Total Commits (2025):**  
-132  
-
-**Total PRs:**  
-0  
-
-**Total Issues:**  
-0  
-
-**Contributed to (last year):**  
-0  
-
----
-
-## Most Used Languages
-
-- HTML
-- CSS
-- Python
-- JavaScript
-
 
 ---
 
