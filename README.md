@@ -1,4 +1,4 @@
-![Ethical Hacking](https://media0.giphy.com/media/jTq2i1ikzO2mY7uB6R/giphy.gif)
+![Hacking Terminal](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDl3a2RkY3VlZ3l4Y3V6eWJ3Z2N5Z3Z4eGx6a2N4dWZ1ZDR6eWJ1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif)
 
 # 👨‍💻 About Me:
 Hi, I'm **Ahad Parvaiz** — a passionate **Computer Science student** at **University of the Punjab (2024–2028)** focusing on **Ethical Hacking**, **Cybersecurity**, and **Web Development**.
