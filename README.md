@@ -120,10 +120,11 @@ AI solutions company portal
 
 ---
 
-# SYSTEM ACCESS LOGS
+# 🚀 SYSTEM ACCESS LOGS
 
-<div>
+<div align="center">
   <img src="https://img.shields.io/badge/HACK_ATTEMPTS-19-00ff00?style=for-the-badge" />
+  &nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/TOTAL_VISITS-12345-00ff00?style=for-the-badge" />
 </div>
 
