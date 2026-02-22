@@ -6,7 +6,7 @@
   <br>  
   <img src="https://komarev.com/ghpvc/?username=Ahad-Parvaiz&label=PROFILE_VISITS&color=00ff00&style=for-the-badge&labelColor=000000" alt="Ahad-Parvaiz" />  
   <br><br>
-  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5208665" style="border:none;" width="350" height="100"></iframe>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/5208665.png" alt="TryHackMe Badge" />
 </div>
 
 # 👨‍💻 About Me:
