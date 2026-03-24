@@ -169,10 +169,9 @@ Dedicated **Computer Science student** at **University of the Punjab** with a st
 
 # 🌐 CONNECT
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00ff00?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/ahadparvaiz/)  
-[![Email](https://img.shields.io/badge/Email-00ff00?style=for-the-badge&logo=gmail&logoColor=black)](mailto:ahadparvaizofficial@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-00ff00?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Ahad-Parvaiz)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff00)](https://www.linkedin.com/in/ahadparvaiz/)  
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00ff00)](mailto:ahadparvaizofficial@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff00)](https://github.com/Ahad-Parvaiz)
 ---
 
 <div align="center">
